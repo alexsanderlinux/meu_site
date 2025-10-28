@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.paragrafo-centralizado {
+  text-align: center;
+  
+}
+
+h1 {
+    text-align: center;
+}
